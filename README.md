@@ -6,8 +6,8 @@ This project focuses on predicting future sales using historical data. Accurate 
 
 ## Tools and Techniques:
 **Programming Language**: Python<br>
-**Libraries**: Pandas,Numpy,Scikit-Learn,Statsmodel,Matplotlib,Seaborn
-**Modeling Techniques**:Linear Regression,Random Forest Regressor,XgBoost Regressor,Logistic Regressoer, Decision Tree Model etc
+**Libraries**: Pandas,Numpy,Scikit-Learn,Statsmodel,Matplotlib,Seaborn<br>
+**Modeling Techniques**:Linear Regression,Random Forest Regressor,XgBoost Regressor,Logistic Regressoer, Decision Tree Model etc<br>
 **Data sources**:Train.csv - Access Million
 
 ## Project Workflow:
