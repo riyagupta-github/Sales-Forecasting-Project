@@ -11,6 +11,26 @@ This project focuses on predicting future sales using historical data. Accurate 
 **Data sources**:Train.csv - Access Million
 
 ## Project Workflow:
-**Data Collection**: The data was sourced from Access Million Company.
+**Data Collection**: The data was sourced from Access Million Company.<br>
 **Data Preprocessing**: 
-****Handling missing values****
+1. Handling missing values<br>
+2. Normalization and scaling<br>
+3. Feature engineering(e.g. creating lag variables,moving averages)<br>
+**Exploratory Data Analysis**:<br>
+1. Identified trends,seasonality and outliers<br>
+2. Visualized sales data over time<br>
+**Modeling**:
+Building and test multiple models including:<br>
+Linear Regression<br>
+ARIMA(AutoRegression Integrated Moving Average)<br>
+Random Forest<br>
+**Evaluation**:
+Selected the model with the best performance based on metrics like RMSE(Root Mean Square Error) and MAE(Mean Absolute Error)<br>
+Achieved an accuracy of 97.56%
+
+## Result:
+The final model provided accuracte forecasts,particularly effective in predicting valuable insights.
+
+
+
+
