@@ -13,12 +13,12 @@ This project focuses on predicting future sales using historical data. Accurate 
 ## Project Workflow:
 **Data Collection**: The data was sourced from Access Million Company.<br>
 **Data Preprocessing**: 
-1. Handling missing values<br>
-2. Normalization and scaling<br>
-3. Feature engineering(e.g. creating lag variables,moving averages)<br>
+Handling missing values<br>
+Normalization and scaling<br>
+Feature engineering(e.g. creating lag variables,moving averages)<br>
 **Exploratory Data Analysis**:<br>
-1. Identified trends,seasonality and outliers<br>
-2. Visualized sales data over time<br>
+Identified trends,seasonality and outliers<br>
+Visualized sales data over time<br>
 **Modeling**:
 Building and test multiple models including:<br>
 Linear Regression<br>
